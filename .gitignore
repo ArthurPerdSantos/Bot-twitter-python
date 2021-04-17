@@ -166,6 +166,6 @@ Thumbs.db
 .prof
 
 # especific file
-.secrets.py
+/secrets.py
 
 # End of https://www.toptal.com/developers/gitignore/api/python,linux
